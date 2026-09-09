@@ -1,0 +1,78 @@
+{
+    "title": "Pet Portraits",
+    "description": "Dogs, cats and more!",
+    "images": [
+        {
+            "src": "/assets/gallery-pet-portraits/In Loving Memory of Rocky <3.png",
+            "description": "In Loving Memory of Rocky <3"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/01.jpg",
+            "description": "Pet Portrait"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/02.jpg",
+            "description": "Pet Portrait"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/03.jpg",
+            "description": "Pet Portrait"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/04.jpg",
+            "description": "Pet Portrait"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Barley.jpg",
+            "description": "Barley"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Bear.jpg",
+            "description": "Bear"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Chanel.jpg",
+            "description": "Chanel"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Cisco.jpg",
+            "description": "Cisco"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Cooper.jpg",
+            "description": "Cooper"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Cordi.jpg",
+            "description": "Cordi"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Enzo.jpg",
+            "description": "Enzo"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Mactavish.jpg",
+            "description": "Mactavish"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Miley.jpg",
+            "description": "Miley"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Mouse.jpg",
+            "description": "Mouse"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Nova.jpg",
+            "description": "Nova"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Trekker.jpg",
+            "description": "Trekker"
+        },
+        {
+            "src": "/assets/gallery-pet-portraits/Willy.jpg",
+            "description": "Willy"
+        }
+    ]
+}

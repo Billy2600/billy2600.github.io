@@ -1,0 +1,54 @@
+{
+    "title": "Crumpets & Kerosene Art",
+    "description": "Crumpets and Kerosene a 5e based podcast. Listen in on our adventures and look out for new art for the game to come!",
+    "images": [
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Sashimi WM.jpg",
+            "description": "Sashimi"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Snail Mail WM.jpg",
+            "description": "Snail Mail"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Mail Pigeon WM.jpg",
+            "description": "Mail Pigeon"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Goat Mail WM.jpg",
+            "description": "Goat Mail"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Blanch WM.jpg",
+            "description": "Blanche"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Double headed snake WM.jpg",
+            "description": "Double Headed Snake"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Dew Shroom WM.jpg",
+            "description": "Dew Shroom"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Screaming Strawberry WM.jpg",
+            "description": "Screaming Strawberry"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Living Moss WM.jpg",
+            "description": "Living Moss"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Poof Spore WM.jpg",
+            "description": "Poof Spore"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Sewer Gator WM.jpg",
+            "description": "Sewer Gator"
+        },
+        {
+            "src": "/assets/gallery-crumpets-kerosene/Sewer Rat WM.jpg",
+            "description": "Sewer Rat"
+        }
+    ]
+}

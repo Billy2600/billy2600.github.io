@@ -1,0 +1,22 @@
+{
+    "title": "The World of Snell",
+    "description": "What if snails played D&D? Follow me in my journey as I create the world of Snell. Where Snails rule and adventure awaits",
+    "images": [
+        {
+            "src": "/assets/gallery-snell/Wizard Snail WM.jpg",
+            "description": "Wizard Snail"
+        },
+        {
+            "src": "/assets/gallery-snell/Artificer Snail WM j.jpg",
+            "description": "Artificer Snail"
+        },
+        {
+            "src": "/assets/gallery-snell/Bard Snail WM.jpg",
+            "description": "Bard Snail"
+        },
+        {
+            "src": "/assets/gallery-snell/Monk Snail WM.jpg",
+            "description": "Monk Snail"
+        }
+    ]
+}
